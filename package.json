@@ -1,0 +1,12 @@
+{
+  "name": "grayhatscraping-book1",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "async": "^2.5.0",
+    "cheerio": "^1.0.0-rc.2",
+    "lodash": "^4.12.0",
+    "mysql": "^2.15.0",
+    "request": "^2.81.0"
+  }
+}
